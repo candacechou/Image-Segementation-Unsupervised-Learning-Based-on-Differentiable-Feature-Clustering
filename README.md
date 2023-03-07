@@ -1,5 +1,7 @@
 ## Image Segmentation using unsupervised learning
 
+Image Segmentation Based on Differentiable Feature Clustering
+
 This repository is adapted from the following paper:
 
 Wonjik Kim\*, Asako Kanezaki\*, and Masayuki Tanaka.
